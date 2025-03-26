@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hola, soy Erick Becerra 👋  
+
+## 🔥 Mis estadísticas  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Becerra&layout=compact)
 
 <!--
 **Erick-Becerra/Erick-Becerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
