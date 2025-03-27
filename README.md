@@ -1,8 +1,15 @@
 # Hola, soy Erick Becerra 👋  
 
-## 🔥 Mis estadísticas  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Becerra&hide=html,css&layout=compact&theme=dark)
+## 🔥 Mis Estadísticas  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Becerra&show_icons=true&theme=radical)](https://github.com/Erick-Becerra)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Becerra&layout=compact&theme=radical)](https://github.com/Erick-Becerra)
 
+## 🛠️ Tecnologías  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## 📫 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
 <!--
 **Erick-Becerra/Erick-Becerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
