@@ -10,6 +10,7 @@
 
 ## 📫 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-jair-becerra-acosta-017039276/)
+
 <!--
 **Erick-Becerra/Erick-Becerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
