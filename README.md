@@ -1,7 +1,6 @@
 # Hola, soy Erick Becerra 👋  
 
 ## 🔥 Mis Estadísticas  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-Becerra&show_icons=true&theme=radical)](https://github.com/Erick-Becerra)
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Becerra&layout=compact&theme=radical)](https://github.com/Erick-Becerra)
 
 ## 🛠️ Tecnologías  
