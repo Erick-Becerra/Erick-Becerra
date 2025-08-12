@@ -7,7 +7,8 @@
 ## 🛠️ Tecnologías  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6600A1?style=for-the-badge&logo=phyton&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-336699?style=for-the-badge&logo=visual%20basic&logoColor=white)
 
 ## 📫 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-jair-becerra-acosta-017039276/)
